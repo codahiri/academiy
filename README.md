@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-## After [ilosrim](https://t.me/ilosrim)
+## Created by [ilosrim](https://t.me/ilosrim)
