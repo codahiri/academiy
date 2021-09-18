@@ -1,5 +1,14 @@
 import styled from "styled-components";
 import HeaderLogo from '../../images/header/header.png'
+import Bg from '../../images/header/vector.png'
+
+export const Body = styled.div`
+  width: 100%;
+  height: 964px;
+  background-image: url(${Bg});
+  background-position: bottom;
+  background-size: cover;
+`
 
 export const Headers = styled.div`
   width: 1152px;
