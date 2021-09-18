@@ -2,6 +2,7 @@ import React from 'react'
 import './App.css'
 import {Carousel} from './components/carousel/index'
 import { Commits } from './components/commits';
+import { Footer } from './components/footer';
 import { Header } from './components/header';
 import { Navbar } from './components/navbar';
 
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <Carousel />
       <Commits />
+      <Footer />
     </div>
   );
 }
