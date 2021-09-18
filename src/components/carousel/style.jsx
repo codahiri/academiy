@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
+
 export const Carousels = styled.div`
   width: 100%;
   height: 636px;
