@@ -1,41 +1,27 @@
-import styled from "styled-components";
-import HeaderLogo from '../../images/header/header.png'
-import Bg from '../../images/header/vector.png'
+import styled from 'styled-components'
 
-export const Body = styled.div`
+export const FooterSec = styled.div`
   width: 100%;
-  height: 964px;
-  background-image: url(${Bg});
-  background-position: bottom;
-  background-size: cover;
-`
-
-export const Headers = styled.div`
-  width: 1152px;
-  height: 900px;
-  background-image: url(${HeaderLogo});
-  background-size: cover;
-  background-position: center;
-  margin: 55px auto;
+  height: 868px;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-left: 217px;
-  padding-right: 217px;
+  flex-direction: column;
+  padding: 0px 340px;
 `
 export const Title = styled.div`
   font-size: 64px;
   line-height: 68px;
   text-align: center;
   color: #090B37;
+  margin: 25px 0;
 `
-export const Desc = styled.div`
-  font-size: 22px;
+export const Commit = styled.div`
+  font-size: 21px;
   line-height: 32px;
   text-align: center;
-  color: #3C2B84;
-  margin: 28px 0 34px;
+  color: #51526A;
+  margin: 28px 0 66px;
 `
 export const InputBox = styled.div`
   height: 80px;
@@ -57,6 +43,7 @@ export const Input = styled.input`
   color: #A0A0A0;
   border: none;
   outline: none;
+  width: 70%;
 `
 export const ArrowBox = styled.div`
   width: 120px;
@@ -76,14 +63,37 @@ export const ArrowBox = styled.div`
     color: #fff;
   }
 `
-export const Commit = styled.div`
-  width: 608px;
+export const Socials = styled.div`
   display: flex;
-  padding-left: 15px;
-  p{
-    font-size: 17px;
-    line-height: 26px;
-    color: #3C2B84;
-    padding: 23px 0 0 15px;
+  align-items: center;
+  justify-content: space-between;
+  width: 184px;
+  padding: 0 16px;
+`
+export const Box = styled.div`
+  width: 60px;
+  height: 60px;
+  background: #EBECF4;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  svg{
+    width: 35px;
+    color: #090B37;
+    transition: all 0.3s linear;
+    cursor: pointer;
+    :hover{
+      transform: scale(1.2);
+    }
+  }
+  margin: 120px 0 22px;
+`
+export const Creator = styled.div`
+  font-size: 22px;
+  line-height: 32px;
+  color: #3C2B84;
+  a{
+    text-decoration: dotted;
   }
 `

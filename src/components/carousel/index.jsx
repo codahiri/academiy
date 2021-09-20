@@ -2,6 +2,7 @@ import React from 'react'
 import { Carousels, Marks, Title, User } from './style'
 import mark from '../../images/carousel/marks.svg'
 import user from '../../images/carousel/user.png'
+
 export const Carousel = () => {
   return (
     <Carousels>
@@ -16,3 +17,4 @@ export const Carousel = () => {
     </Carousels>
   )
 }
+

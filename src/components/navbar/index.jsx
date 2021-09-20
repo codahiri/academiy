@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, LinkInput, Logo, Nav, Link, Input } from './style'
+import { LinkInput, Logo, Nav, Link, Input, Container } from './style'
 import logo from '../../images/navbar/logo.svg'
 import { ArrowRight } from '@styled-icons/bootstrap/ArrowRight'
 
