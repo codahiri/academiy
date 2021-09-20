@@ -47,8 +47,8 @@
 }
 
 .part{
-    padding-left: 144px;
-    padding-top: 145px;
+    /* padding-left: 144px; */
+    /* padding-top: 145px; */
     display: flex;
     position: relative;
 }
@@ -131,10 +131,10 @@
 }
 
 footer img{
-    width: 1440px;
+    width: 1152px;
     height: 320px;
     z-index: 2;
     left: -59px;
-    margin-top: -40px;
+    margin-top: -122px;
 }
  
