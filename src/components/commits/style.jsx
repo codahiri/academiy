@@ -48,7 +48,10 @@ export const Btn = styled.img`
   font-size: 18px;
   font-weight: 600;
   cursor: pointer; */
+<<<<<<< HEAD
+=======
 
+>>>>>>> 46bc7c1a87d7c71209e0540d9373be50bc3af3f3
   position: absolute;
   bottom: 0;
   right: -82px;

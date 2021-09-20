@@ -1,0 +1,10 @@
+.active{
+    width: 1440px;
+    background:  #E5E5E5;
+    height: 856px;
+}
+
+.active__footerImg{
+    width: 1440px;
+    height: 280px;
+}
