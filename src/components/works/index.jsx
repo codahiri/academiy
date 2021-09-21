@@ -45,7 +45,7 @@ export const Works = () => {
                     </div>
                 </div>
             </div>
-            <footer className="vektor"><img src={VektorImg} alt="" /></footer>
+            {/* <footer className="vektor"><img src={VektorImg} alt="" /></footer> */}
         </div>
     )
 }
