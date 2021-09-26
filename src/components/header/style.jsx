@@ -57,6 +57,8 @@ export const Input = styled.input`
   color: #A0A0A0;
   border: none;
   outline: none;
+  width: 100%;
+  padding: 0 5px;
 `
 export const ArrowBox = styled.div`
   width: 120px;
