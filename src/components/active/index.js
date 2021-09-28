@@ -1,8 +1,5 @@
-export default index
 import React from 'react'
-// import {classes} from './style.mudule.css'
 import Rastangle from '../../images/active/Rectangle.png'
-// import Vest from '../../images/active/Vect.png'
 import cycle from '../../images/works/vektor/Vector1.png'
 import bur from '../../images/works/vektor/Vector2.png'
 import right from '../../images/works/vektor/Vector3.png'
