@@ -10,7 +10,7 @@ export const Footer = () => {
       <Title>Get notified when enrollment opens again</Title>
       <Commit>
         Currently there are ~500 designers learning together in Figma.
-        Enter your email below if you'd like to join them <span role='img' aria-label>👇</span>
+        Enter your email below if you'd like to join them <span role='img' aria-label='img' >👇</span>
       </Commit>
 
       <InputBox>

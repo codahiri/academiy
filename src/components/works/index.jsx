@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import VektorImg from '../../images/works/Vector1.png'
+// import VektorImg from '../../images/works/Vector1.png'
 import cycle from '../../images/works/vektor/Vector1.png'
 import bur from '../../images/works/vektor/Vector2.png'
 import right from '../../images/works/vektor/Vector3.png'

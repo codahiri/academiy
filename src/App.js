@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import { Active } from './components/active';
+import { Active } from './components/active/inedx';
 import {Carousel} from './components/carousel/index'
 import { Commits } from './components/commits';
 import { Footer } from './components/footer';

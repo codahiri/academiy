@@ -1,203 +1,203 @@
 .active{
-    width: 1326px;
-    background:  #fff;
-    height: 1136px;
-    padding-top: 62px;
-    position: relative;
+  width: 1326px;
+  background:  #fff;
+  height: 1136px;
+  padding-top: 62px;
+  position: relative;
 }
 
 .active__container{
-    height: 792px;
-    width: 1152;
-    position: relative;
-    top: 62px;
-    margin-right: 288px;
-    left: 144px;
+  height: 792px;
+  width: 1152;
+  position: relative;
+  top: 62px;
+  margin-right: 288px;
+  left: 144px;
 }
 
 .active-cart{
-    top: 66px;
-    width: 1152px;
-    height: 400px;
-    position: relative;
+  top: 66px;
+  width: 1152px;
+  height: 400px;
+  position: relative;
 }
 
 .active-collect{
-    position: relative;
-    display: flex;
+  position: relative;
+  display: flex;
 }
 
 .active-collect li{
-    position: relative;
-    list-style: none;
-    width:380px;
-    height: 400px;
-    min-width: 380px;
-    border-radius: 24px;
+  position: relative;
+  list-style: none;
+  width:380px;
+  height: 400px;
+  min-width: 380px;
+  border-radius: 24px;
 }
 
 .active-collect li p{
-    margin-top: 20px;
-    margin-left: 34px;
-    font-size: 64px;
-    font-weight: 400;
+  margin-top: 20px;
+  margin-left: 34px;
+  font-size: 64px;
+  font-weight: 400;
 }
 
 .active-collect li span{
-    transform: rotate(90deg);
-    position: absolute;
-    font-size: 48px;
-    margin-left: 230px;
+  transform: rotate(90deg);
+  position: absolute;
+  font-size: 48px;
+  margin-left: 230px;
 }
 
 
 .active-collect-item1{
-    box-shadow: 10px 6px 6px #7C1D19;
-    position: relative;
-    background: #F4A59F;
-    z-index: 50;
-    margin-top: 32px;
+  box-shadow: 10px 6px 6px #7C1D19;
+  position: relative;
+  background: #F4A59F;
+  z-index: 50;
+  margin-top: 32px;
 }
 
 .active-collect-item1 p{
-    color: #7C1D19;
+  color: #7C1D19;
 }
 
 .active-collect-item1 span, .active-collect-item2 span, .active-collect-item3 span, .active-collect-item4 span, .active-collect-item5 span, .active-collect-item6 span{
-    margin-top: 130px;
+  margin-top: 130px;
 }
 
 
 .active-collect-item2{
-    box-shadow: 10px 6px 6px #6C1A45 ;
-    left: -226px;
-    position: absolute;
-    background: #E284A0;
-    z-index: 12;
-    margin-top: 64px;
+  box-shadow: 10px 6px 6px #6C1A45 ;
+  left: -226px;
+  position: absolute;
+  background: #E284A0;
+  z-index: 12;
+  margin-top: 64px;
 }
 
 .active-collect-item2 span{
-    color: #6C1A45;
+  color: #6C1A45;
 }
 
 .active-collect-item3 span{
-    color: #945219;
+  color: #945219;
 }
 
 .active-collect-item4 span{
-    color: #465B43;
+  color: #465B43;
 }
 
 .active-collect-item5 span{
-    color: #3C2B84;
+  color: #3C2B84;
 }
 
 .active-collect-item6 spam{
-    color: #090B37;
+  color: #090B37;
 }
 
 .active-collect-item3{
-    box-shadow: 10px 6px 6px #945219;
-    position: absolute;
-    margin-left: -452px;
-    background: #F2BA89;
-    z-index: 8;
-    margin-top: 96px;
+  box-shadow: 10px 6px 6px #945219;
+  position: absolute;
+  margin-left: -452px;
+  background: #F2BA89;
+  z-index: 8;
+  margin-top: 96px;
 
 }
 
 .active-collect-item4{
-    box-shadow: 10px 6px 6px #465B43;
-    position: absolute;
-    background: #CDEEC8;
-    margin-left: -226px;
-    z-index: 5;
-    margin-top: 128px;
+  box-shadow: 10px 6px 6px #465B43;
+  position: absolute;
+  background: #CDEEC8;
+  margin-left: -226px;
+  z-index: 5;
+  margin-top: 128px;
 
 }
 
 .active-collect-item5{
-    box-shadow: 10px 6px 6px #3C2B84 ;
-    margin-left: -226px;
-    position: absolute;
-    background: #BBBFFB;
-    z-index: 3;
-    margin-top: 160px;
+  box-shadow: 10px 6px 6px #3C2B84 ;
+  margin-left: -226px;
+  position: absolute;
+  background: #BBBFFB;
+  z-index: 3;
+  margin-top: 160px;
 
 }
 
 .active-collect-item6{
-    box-shadow: 10px 6px 6px #090B37 ;
-    margin-left: -226px;
-    margin-top: 192px;
-    position: absolute;
-    background: #E8E9F1;
-    z-index: 1;
+  box-shadow: 10px 6px 6px #090B37 ;
+  margin-left: -226px;
+  margin-top: 192px;
+  position: absolute;
+  background: #E8E9F1;
+  z-index: 1;
 }
 
 
 .active-info{
-    display: block;
-    width: 590px;
-    height: 328px;
+  display: block;
+  width: 590px;
+  height: 328px;
 }
 
 .active-info p{
-    padding-bottom: 25px;
-    font-size: 20px;
-    line-height: 20px;
+  padding-bottom: 25px;
+  font-size: 20px;
+  line-height: 20px;
 }
 
 .active-info span{
-    font-size: 33px;
-    line-height: 54px;
+  font-size: 33px;
+  line-height: 54px;
 }
 
 .active-info div{
-    display: flex;
-    margin-top: 22px;
-    width: 590px;
-    height: 64px;
-    align-items: center;
+  display: flex;
+  margin-top: 22px;
+  width: 590px;
+  height: 64px;
+  align-items: center;
 }
 
 .v-collect{
-    width: 73px;
-    height: 64px;
-    margin-right: 40px;
+  width: 73px;
+  height: 64px;
+  margin-right: 40px;
 }
 
 .v__item1{
-    margin-bottom:42px;
-    width: 14.5px;
-    z-index: 1;
-    height: 14.5px;
-    margin-right: -9px;
+  margin-bottom:42px;
+  width: 14.5px;
+  z-index: 1;
+  height: 14.5px;
+  margin-right: -9px;
 }
 
 .v__item2{
-    margin-bottom: 5px;
-    width: 62px;
-    margin-right: -3px;
-    margin-top: 5px;
-    height: 38px;
-    z-index: 10;
+  margin-bottom: 5px;
+  width: 62px;
+  margin-right: -3px;
+  margin-top: 5px;
+  height: 38px;
+  z-index: 10;
 }
 
 .v__item3{
-    margin-left: 2px;
-    margin-top: 37px;
-    width: 7px;
-    height: 14px;
+  margin-left: 2px;
+  margin-top: 37px;
+  width: 7px;
+  height: 14px;
 }
 
 .active-info div p{
-    margin-left: -85px;
-    margin-top: 200px;
-    position: relative;
-    font-size: 22px;
-    line-height: 32px;
+  margin-left: -85px;
+  margin-top: 200px;
+  position: relative;
+  font-size: 22px;
+  line-height: 32px;
 }
 
 
@@ -205,14 +205,14 @@
 
 
 .active__footerImg{
-    background-image: url('../../images/active/Vect.png');
-    margin-top: -255px;
-    width: 1326px;
-    height: 320px;
+  background-image: url('../../images/active/Vect.png');
+  margin-top: -255px;
+  width: 1326px;
+  height: 320px;
 }
 
 
 .active-footer-logo{
-    width: 1326px;
-    height: 280px;
+  width: 1326px;
+  height: 280px;
 }
